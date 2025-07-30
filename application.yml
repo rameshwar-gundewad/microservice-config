@@ -6,3 +6,6 @@ eureka:
       defaultZone: http://localhost:8008/eureka
   instance:
     prefer-ip-address: true
+
+SECRET:
+  KEY: e62fbd5199b394dfaac22905c357215555f3d28af90c0b82dcf4448c3514e3c5
